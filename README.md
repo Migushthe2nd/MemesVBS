@@ -1,2 +1,2 @@
 # MemesVBS
-As easy as opening starter.bat on any computer. Some virus scan software will see this as a harmfull file.
+As easy as opening starter.bat on any computer. Some anti-virus software will detect this as a harmfull file.
